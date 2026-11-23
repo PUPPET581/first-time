@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">First Time</string>
+    <string name="action_copy_readme">Copy README</string>
+    <string name="badge_repository_source">PUPPET581 / first-time</string>
+    <string name="hero_banner_content_description">Minimalist studio notebook illustration for First Time</string>
+    <string name="readme_card_title">Repository Content</string>
+    <string name="readme_file_label">README.md · 12 bytes</string>
+    <string name="readme_heading_raw"># first-time</string>
+    <string name="readme_heading_rendered">first-time</string>
+    <string name="readme_raw_caption">Verbatim plain-text contents preserved from the root README.md file.</string>
+    <string name="readme_rendered_caption">Primary Markdown heading from the imported repository.</string>
+    <string name="repo_origin_label">Source Repository</string>
+    <string name="repo_origin_value">PUPPET581/first-time</string>
+    <string name="repo_scope_note">This repository contained only a single README.md file with no backend, database, or additional screens. All core content is faithfully preserved here.</string>
+    <string name="repo_stack_label">Original Stack</string>
+    <string name="repo_stack_value">Unspecified (Markdown starter)</string>
+    <string name="repo_summary_title">Import Overview</string>
+    <string name="repo_target_label">Android Target</string>
+    <string name="repo_target_value">Kotlin · Jetpack Compose · Material 3</string>
+    <string name="snackbar_copied_readme">Copied "# first-time" to clipboard</string>
+    <string name="tab_raw_markdown_label">README.md</string>
+    <string name="tab_rendered_label">Rendered</string>
+    <string name="welcome_subtitle">A clean beginning — rewritten for Android with Kotlin and Jetpack Compose.</string>
+</resources>

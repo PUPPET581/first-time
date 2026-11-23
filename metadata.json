@@ -1,0 +1,8 @@
+{
+  "name": "First Time",
+  "description": "A clean Kotlin and Jetpack Compose Android app showcasing the imported PUPPET581/first-time repository content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
